@@ -2,7 +2,7 @@
 
 const LinksSocialMedia = {
   github: 'andrehigashi',
-  youtube: 'watch?v=RIBkK5X_3mo',
+  youtube: 'andrehigashi',
   facebook: 'andrehigashi',
   instagram: 'andre.higashi',
   twitter: 'andrehigashi'
